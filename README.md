@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Chaipitch
 - 👀 I’m interested in UX/UI design/Front-End Development and 3d arts.
-- 🌱 I’m currently learning Reactjs. and looking for somewhere to start my job.
+- 🌱 I’m currently working as a Salesforce Developer!
 - 📫 How to reach me Email:chaipitch6@gmail.com
